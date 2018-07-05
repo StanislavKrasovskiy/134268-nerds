@@ -1386,12 +1386,3 @@ textarea:focus::-moz-placeholder {
 .contact-form button {
   width: 260px;
 }
-
-/* Убрать */
-/* body {
-
-  background-image: url("/Users/Stas/Documents/GitHub/134268-nerds/img/1200-nerds-index.png");
-  background-image: url("/Users/Stas/Documents/GitHub/134268-nerds/img/1200-nerds-catalog.png");
-  background-repeat: no-repeat;
-  opacity: 0.2;
-} */
